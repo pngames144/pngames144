@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇺🇦 I am a Ukrainian developer currently working on an app that helps people trying to build new habits—enabling them to do things regularly without feeling guilty if they miss something. And try to improve my analytical skills in Football Scouting.
+💻 I am a Ukrainian developer currently working on an app that helps people trying to build new habits, enabling them to do things regularly without feeling guilty if they miss something. And try to improve my analytical skills in Football Scouting.
 
 
 ## 🌐 Socials:
